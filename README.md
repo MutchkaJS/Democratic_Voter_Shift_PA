@@ -89,18 +89,8 @@ If some source files cannot be redistributed publicly, note that clearly in the 
 
 A full research paper with literature review, methodology, results, discussion, and references should be included in the repository as a PDF. That document provides the complete academic framing for the project and complements the code, figures, and model outputs presented here.[4][10]
 
+[Read the full paper]()
 
-Suggested file placement:
-
-```text
-paper/democratic_voter_shift_paper.pdf
-```
-
-You can also link it directly in the README once uploaded:
-
-```markdown
-[Read the full paper](paper/democratic_voter_shift_paper.pdf)
-```
 
 ## Limitations
 
